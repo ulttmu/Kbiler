@@ -1,0 +1,14 @@
+{
+  "name": "kebile-ai-bot",
+  "version": "1.0.0",
+  "description": "大地起源 AI 客服助手",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "openai": "^4.38.3"
+  }
+} 
