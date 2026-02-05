@@ -287,8 +287,88 @@
 
 ---
 
-## 七、全球手工皂市場趨勢
+## 七、現代工業皂的真相：廉價皂是怎麼做的？
 
+> 了解工業皂的製程與成分，才能真正理解手工皂的價值差異。
+
+### 7.1 工業皂的歷史背景
+
+- 合成清潔劑（Syndet = Synthetic + Detergent）最早出現於 **1916 年德國**，因一戰動物脂肪短缺而誕生
+- 二戰後快速發展，1950 年代已在歐美取代傳統肥皂
+- **1955 年 Dove 上市**，是第一款合成皂+傳統皂混合的「combo syndet bar」
+- 今天市面上大多數「肥皂」其實不是真正的皂，而是合成清潔劑產品
+
+### 7.2 工業皂的製造流程
+
+1. **原料**：使用廉價油脂——主要是 **動物牛脂**（Tallow，肉品工業的廢料副產品）和 **棕櫚油**（全球最便宜的植物油之一）
+   - 成分表上常見「Sodium Tallowate」= 牛脂皂化物
+   - 棕櫚油被稱為「素食版牛脂」，結構相似但有嚴重的雨林砍伐倫理問題
+2. **高溫蒸煮**：以高溫高壓加速皂化反應，大幅縮短時間
+3. **關鍵步驟——抽取甘油**：
+   - 皂化反應天然產生約 10% 的甘油（glycerin），是極佳的天然保濕劑
+   - **工業製程會將甘油抽離另售**，因為甘油的經濟價值遠高於肥皂本身
+   - 抽走的甘油被賣給化妝品、牙膏、乳液廠商
+   - 有些工廠會「加回一點點甘油」到成品中，成分表上因此出現 glycerin
+4. **添加化學物質**：填補甘油被抽走後的空缺
+5. **加壓入模、機器裁切、烘乾**：約 1 週即可出貨（對比手工皂的 4–8 週甚至數年）
+
+### 7.3 工業皂常見的化學添加物
+
+| 添加物類型 | 常見成分 | 用途 | 潛在問題 |
+|---|---|---|---|
+| **合成界面活性劑** | SLS（Sodium Lauryl Sulfate）、SLES | 產生泡沫、去油 | 過度剝離皮膚天然油脂屏障，導致乾燥刺激 |
+| **合成香料** | Fragrance / Parfum | 掩蓋原料氣味 | 石化工業產物，可能致敏 |
+| **合成色素** | CI 編號色素 | 外觀美化 | 石化產物，可能引起蕁麻疹等過敏 |
+| **防腐劑** | Paraben 類、BHT | 延長保存期至 3 年以上 | 疑有內分泌干擾、致癌風險 |
+| **硬化劑** | Sodium Isethionate 等 | 快速增加硬度，不易溶化 | 非天然來源 |
+| **發泡劑** | Cocamidopropyl Betaine 等 | 增加泡沫量 | 與洗淨力無關，不易沖洗乾淨 |
+| **螯合劑** | EDTA、Etidronate | 改善泡沫穩定性 | 不易生物降解 |
+| **增白劑** | 二氧化鈦（TiO₂） | 製造潔白外觀 | 純為視覺效果 |
+| **礦物油** | Mineral Oil、Petrolatum | 廉價填充劑 | 與人體皮脂不相容，易阻塞毛孔 |
+
+### 7.4 Syndet（合成清潔皂）vs 真皂的科學爭議
+
+合成皂陣營主張 pH 值更接近皮膚（pH 5.5–7.0 vs 真皂的 pH 8.5–10.0），因此更溫和。但事實較為複雜：
+
+- 根據 PMC（PubMed Central）的同行評審研究：傳統皂傾向造成皮膚屏障破壞、脂質溶解和 pH 改變，而合成清潔劑能更有效維持皮膚原有結構
+- **但**：研究中的「傳統皂」通常指的是工業級廉價皂（已抽走甘油、使用牛脂），而非保留完整甘油的冷製手工皂
+- 冷製手工皂保留了天然甘油（約 10%），加上超脂（superfat）設計，實際使用的溫和度遠高於工業皂
+- pH 值本身不直接等於刺激性——配方整體才是關鍵
+
+### 7.5 工業皂 vs 手工皂 vs 阿勒頗古皂：全面對照表
+
+| 比較維度 | 工業皂（含 Syndet） | 冷製手工皂 | 阿勒頗古皂 |
+|---|---|---|---|
+| **主要油脂** | 牛脂、棕櫚油（廉價） | 橄欖油、椰子油等植物油 | 橄欖油 + 月桂油（珍稀） |
+| **製程溫度** | 高溫高壓 | 低溫 45°C 以下 | 120°C 熱製（傳統鍋爐） |
+| **甘油** | 被抽取另售 | 完整保留（~10%） | 完整保留 |
+| **化學添加物** | SLS、防腐劑、香精、色素、硬化劑等 | 天然精油、植物粉末 | 無（僅油+鹼+水） |
+| **熟成時間** | ~1 週（或機器烘乾） | 4–8 週 | 9–24 個月 |
+| **保存期限** | 3 年以上（靠防腐劑） | 1–2 年（無防腐劑） | 無限（越陳越好） |
+| **pH 值** | 5.5–10（依類型） | 8.5–10（鹼性） | 8.5–10（逐年降低趨溫和） |
+| **泡沫來源** | 合成發泡劑 | 天然脂肪酸 | 天然脂肪酸 |
+| **環境影響** | 合成成分不易生物降解 | 可被細菌分解為水與 CO₂ | 完全天然分解 |
+| **成本/塊** | NT$10–50 | NT$100–500 | NT$200–800+ |
+| **皮膚長期影響** | 可能破壞脂質屏障、造成乾燥 | 保濕滋潤、溫和 | 抗菌+保濕，越用越溫和 |
+
+### 7.6 一個容易被忽略的事實
+
+> **FDA 的定義**：要稱為「soap」，產品必須主要由「脂肪酸的鹼金屬鹽」組成，且清潔作用必須來自這些鹼金屬鹽本身。含有合成清潔劑的產品在法規上不算「肥皂」。
+
+市面上多數標示為「soap」的產品，嚴格來說是合成清潔劑——它們只是被壓成肥皂的形狀。真正的皂（true soap）在一般零售通路中反而是少數。
+
+### 7.7 工業皂的「成本結構」為何能這麼便宜
+
+1. **原料成本極低**：牛脂是肉品工業廢料，棕櫚油是全球最便宜的植物油
+2. **抽走甘油再賣一次**：甘油是高價值副產品，等於原料「賺兩次」
+3. **合成添加物取代天然成分**：SLS、人工香精等成本遠低於天然精油
+4. **機械化量產**：高溫高壓+機器成型，產線速度極快
+5. **不需熟成時間**：1 週出貨 vs 手工皂的數週到數年，大幅降低庫存成本
+6. **防腐劑延長貨架壽命**：3 年以上保質期，降低損耗
+
+---
+
+## 八、全球手工皂市場趨勢
 
 ### 市場規模
 - 2025 年全球手工皂市場約 **1.8 億美元**
@@ -308,7 +388,7 @@
 
 ---
 
-## 八、對大地起源品牌的啟示
+## 九、對大地起源品牌的啟示
 
 ### 品牌現有優勢
 - 388 天慢發酵製程（比一般冷製皂的 4–8 週更長）
@@ -365,3 +445,15 @@
 - [Cold Process vs Hot Process Soap - Brambleberry](https://www.brambleberry.com/cold-process/hot-process-soap-vs-cold-process-soap.html)
 - [Aleppo vs Marseille vs Castile Soap - Le Joyau d'Olive](https://lejoyaudolive.com/blogs/infos/marseille-aleppo-and-castile-soaps-how-are-they-different)
 - [What is Aleppo Soap: Benefits, History and Uses](https://naturalfrenchsoap.com/blogs/soapedia/what-is-aleppo-soap-benefits-history-and-uses)
+- [手工皂 vs 市售肥皂 - Home Work 家務室](https://www.eco-homework.com/blogs/sustainable_stuff/161841)
+- [肥皂/香皂/手工皂差別 - 歐米綠](https://www.omnisgreen.com/blogs/handmade-soap-knowledge/121548)
+- [械製皂與手工皂的不同 - 大春煉皂](https://www.dachunsoap.com/blog/posts/soapclass-cold-process)
+- [手工皂的定義 - 手工糠皂](https://www.kangsoap.com/pages/%E6%89%8B%E5%B7%A5%E9%80%A0%E7%9A%84%E5%AE%9A%E7%BE%A9)
+- [Skin Cleansing: Soaps and Syndets - PMC (PubMed Central)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8954092/)
+- [What Are Syndets? - Chagrin Valley Soap](https://www.chagrinvalleysoapandsalve.com/blogs/idas-soap-box-blog/what-are-syndets)
+- [Natural Soap vs Commercial Soap - Chagrin Valley Soap](https://www.chagrinvalleysoapandsalve.com/blogs/idas-soap-box-blog/natural-soap-compared-to-commercial-soap/)
+- [Syndet Soap: Is It Better? - Botanie Soap](https://botaniesoap.com/blogs/misc/syndet-soap)
+- [Soap vs Syndet - Stephenson Personal Care](https://www.stephensonpersonalcare.com/blog/2014-12-09-soap-vs-syndet)
+- [The Dirty Truth About Commercial Soap - Zenocosmetics](https://zenocosmetics.com/blogs/news/the-dirty-truth-bout-commercial-soap)
+- [Commercial Soap Ingredient Breakdown - Health Nutrition](https://www.healthnutrition.co.za/blogs/health/commercial-soap-ingredient-breakdown)
+- [How We Make Soap: Handmade vs Mass-Produced - No Tox Life](https://notoxlife.com/blogs/ingredients/how-we-make-soap-handmade-soap-vs-mass-produced-soaps)
