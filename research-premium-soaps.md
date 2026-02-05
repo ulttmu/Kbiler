@@ -188,7 +188,107 @@
 
 ---
 
-## 六、全球手工皂市場趨勢
+## 六、各皂種客觀性能比較
+
+> 以下從脂肪酸科學與製程角度，客觀分析各皂種在清潔力、保濕力、質感等維度的表現。
+
+### 6.1 核心科學概念
+
+手工皂的性能本質上由 **油脂的脂肪酸組成** 決定，主要指標：
+
+| 指標 | 意義 | 理想範圍 |
+|---|---|---|
+| **INS 值** | 成皂硬度參考，越高越硬 | 120–160 |
+| **碘價** | 不飽和程度，越高越軟、越易氧化 | 41–70 |
+| **皂化價** | 脂肪酸平均碳數的反映 | 因油而異 |
+
+### 6.2 關鍵脂肪酸與洗感對照
+
+| 脂肪酸 | 碳數 | 代表油脂 | 起泡力 | 清潔力 | 保濕力 | 硬度貢獻 | 安定性 |
+|---|---|---|---|---|---|---|---|
+| **月桂酸**（Lauric） | C12 飽和 | 椰子油 | 極強（蓬鬆大泡） | 極強（深層清潔） | 低（洗後乾澀） | 高 | 高 |
+| **棕櫚酸**（Palmitic） | C16 飽和 | 棕櫚油 | 弱但持久（乳霜泡） | 普通 | 中等 | 極高 | 高 |
+| **油酸**（Oleic） | C18 不飽和 | 橄欖油 | 弱但細緻持久 | 中等偏好（溫和） | 高（洗後滋潤） | 低 | 中 |
+| **亞油酸**（Linoleic） | C18 不飽和×2 | 葵花油、葡萄籽油 | 較強但不持久 | 好（清爽不乾） | 中高 | 低 | 低（易氧化） |
+
+重點：月桂酸是「清潔擔當」但洗後偏乾；油酸是「保濕擔當」但泡沫少。好的配方需要在兩者之間取得平衡。
+
+### 6.3 各皂種脂肪酸組成與性能分析
+
+#### 阿勒頗古皂（橄欖油 + 月桂油）
+- **脂肪酸結構**：以油酸為主（橄欖油含 63–81% 油酸），搭配月桂油中的月桂酸
+- **洗感**：滋潤溫和，泡沫細緻但不豐富，洗後肌膚柔軟不緊繃
+- **特殊優勢**：月桂油提供抗菌、消炎、抗真菌功效，這是其他皂種難以替代的
+- **越陳越好**：熟成 9–24 個月讓鹼完全中和，皂性極為溫和；據記載 10 年以上的古皂被視為珍品
+- **皮膚科評價**：皮膚科醫師常推薦用於濕疹、皮膚炎、痤瘡、最敏感肌膚及嬰兒
+
+#### 卡斯提爾皂（100% 橄欖油）
+- **脂肪酸結構**：幾乎全是油酸，INS 值僅約 109（偏軟）
+- **洗感**：最溫和、最保濕，但泡沫極少，有「滑膩感」（slimy lather）
+- **硬度**：偏軟，需要極長熟成期（有些熟成超過一年才夠硬）
+- **適合**：極度敏感肌、純粹主義者
+- **不足**：清潔力偏弱，不適合油性肌或需要深層清潔者
+
+#### 馬賽皂（72% 橄欖油 + 18% 棕櫚油 + 10% 椰子油）
+- **脂肪酸結構**：油酸為主，搭配棕櫚酸增硬、月桂酸增泡
+- **洗感**：比卡斯提爾皂好起泡、比純椰子油皂溫和，平衡性佳
+- **INS 值約 149.6**（落在理想的 120–160 區間）
+- **特色**：因鹽析處理去除甘油，洗淨力比冷製皂強，但保濕力略降
+- **同樣越陳越好**，不會酸敗
+
+#### 鹽皂（高比例椰子油 + 鹽）
+- **脂肪酸結構**：月桂酸為主（椰子油佔 90%），清潔力極強
+- **洗感**：泡沫因鹽而變得細緻綿密（非蓬鬆大泡），有溫和物理去角質效果，洗後極為光滑
+- **特殊優勢**：鹽的礦物質成分（海鹽含鎂、鉀等）提供額外護膚效果
+- **不足**：高月桂酸可能偏乾，需搭配超脂（superfat）平衡；保存不易（會出水）
+
+#### 羊奶皂 / 駱駝奶皂
+- **脂肪酸結構**：取決於基底油配方，奶本身提供的是乳酸、維生素等附加成分
+- **洗感**：奶中的天然乳酸提供溫和去角質，α-羥基酸（AHA）促進細胞更新
+- **特殊優勢**：pH 值天然接近皮膚，比一般皂溫和
+- **區別**：駱駝奶的 AHA 與維生素含量高於羊奶，抗老化效果更強
+
+### 6.4 綜合性能評比表
+
+| 維度 | 阿勒頗古皂 | 卡斯提爾皂 | 馬賽皂 | 鹽皂 | 奶皂 |
+|---|---|---|---|---|---|
+| **清潔力** | ★★★☆ | ★★☆☆ | ★★★☆ | ★★★★ | ★★★☆ |
+| **保濕力** | ★★★★ | ★★★★★ | ★★★☆ | ★★☆☆ | ★★★★ |
+| **泡沫量** | ★★☆☆ | ★☆☆☆ | ★★★☆ | ★★★☆（細緻型） | ★★★☆ |
+| **溫和度** | ★★★★★ | ★★★★★ | ★★★★ | ★★★☆ | ★★★★☆ |
+| **硬度/耐用** | ★★★☆ | ★★☆☆ | ★★★★ | ★★★★★ | ★★★☆ |
+| **抗菌功效** | ★★★★★ | ★★☆☆ | ★★☆☆ | ★★★☆ | ★★☆☆ |
+| **去角質** | ★☆☆☆ | ★☆☆☆ | ★☆☆☆ | ★★★★★ | ★★★☆（乳酸） |
+| **保存穩定性** | ★★★★★ | ★★★★ | ★★★★★ | ★★★☆（易出水） | ★★★☆ |
+| **越陳越好** | 是 | 是 | 是 | 否 | 否 |
+| **製程耗時** | 1–2 年 | 4 週–1 年 | 數月 | 數週 | 4–8 週 |
+
+### 6.5 客觀結論
+
+**沒有「最好」的皂，只有「最適合」的皂。** 但若非要排序：
+
+1. **綜合皮膚護理能力最強**：阿勒頗古皂
+   - 月桂油的抗菌消炎功效是獨一無二的，加上橄欖油的保濕，兼顧清潔與護膚
+   - 越陳越溫和的特性讓它適用範圍最廣（從嬰兒到問題肌膚）
+   - 唯一不足是泡沫量少，使用體驗不如泡沫豐富的皂直覺
+
+2. **洗感質地最細膩**：馬賽皂
+   - INS 值落在理想區間，硬度、泡沫、清潔、保濕的平衡最好
+   - 但缺少月桂油的抗菌加分
+
+3. **功能性最強（去角質/深層清潔）**：鹽皂
+   - 物理+化學雙重清潔，洗後觸感最光滑
+   - 但偏乾且保存性差，不適合日常全身使用
+
+4. **最溫和保濕**：卡斯提爾皂 / 羊奶皂
+   - 極度敏感肌首選，但清潔力和使用體驗（泡沫）較弱
+
+> **對大地起源的啟示**：品牌的 388 天慢發酵製程若能結合台灣在地月桂科植物（如土肉桂、山胡椒等含抗菌成分的本土植物），有機會做出「台灣版阿勒頗」概念的高價值產品——兼具長時間熟成的溫和度與在地植物的機能性。
+
+---
+
+## 七、全球手工皂市場趨勢
+
 
 ### 市場規模
 - 2025 年全球手工皂市場約 **1.8 億美元**
@@ -208,7 +308,7 @@
 
 ---
 
-## 七、對大地起源品牌的啟示
+## 八、對大地起源品牌的啟示
 
 ### 品牌現有優勢
 - 388 天慢發酵製程（比一般冷製皂的 4–8 週更長）
@@ -255,3 +355,13 @@
 - [Aleppo Soap History - Ultimate Guide to Soap](https://www.ultimateguidetosoap.com/post/aleppo-hot-process-soap-recipe-exploring-the-history-of-soap)
 - [Aleppo Soap - Wikipedia](https://en.wikipedia.org/wiki/Aleppo_soap)
 - [Aleppo Soap Making - Sharbo Inc](https://www.sharboinc.com/alepposoapmaking)
+- [皂化值、碘價、INS 值與脂肪酸組成 - Real Botany](https://realbotany.com/en-ma/blogs/diy-natrual-life-blog/understand-saponification-iodine-ins-value-fatty-acid)
+- [脂肪酸大全 - 綠的秘密](https://greenity.pixnet.net/blog/post/148574041)
+- [植物油和脂肪酸的關係 - TT Classroom](https://ttclassroom.com/oil-and-fatty-acids/)
+- [皂化價、碘價及 INS 值解說 - TT Classroom](https://ttclassroom.com/saponification-value-iodine-value-and-ins-value/)
+- [Fatty Acids and Soap Making](http://www.soap-making-resource.com/fatty-acids-soap-making.html)
+- [Most Popular Fatty Acid Profiles - Modern Soapmaking](https://www.modernsoapmaking.com/blog/the-most-popular-fatty-acid-profiles-in-soapmaking)
+- [Formulating Recipes: A Look at Fatty Acids - Nurture Soap](https://nurturesoap.com/blogs/nurture-soap-blog/formulating-recipes-a-look-at-fatty-acids)
+- [Cold Process vs Hot Process Soap - Brambleberry](https://www.brambleberry.com/cold-process/hot-process-soap-vs-cold-process-soap.html)
+- [Aleppo vs Marseille vs Castile Soap - Le Joyau d'Olive](https://lejoyaudolive.com/blogs/infos/marseille-aleppo-and-castile-soaps-how-are-they-different)
+- [What is Aleppo Soap: Benefits, History and Uses](https://naturalfrenchsoap.com/blogs/soapedia/what-is-aleppo-soap-benefits-history-and-uses)
